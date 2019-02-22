@@ -1,0 +1,6 @@
+# change root user in mint os
+sudo passwd
+enter user password
+enter UNIX password
+confirm UNIX password
+done :)
